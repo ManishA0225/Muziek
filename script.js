@@ -12,14 +12,14 @@ let songItems = Array.from(document.getElementsByClassName('songItem'));
 let songs = [
     {songName:"Apna Bnan Le - Arijit Singh", filePath: "songs/1.mp3", coverPath: "covers/1.jpg"},
     {songName:"Cinderellas Dead - Emeline-(DJMaza)", filePath: "songs/2.mp3", coverPath: "covers/2.jpg"},
-    {songName:"Ghode Pe Sawar - Sireesha Bhagavatula", filePath: "songs/3.mp3", coverPath: "covers/3.jfif"},
-    {songName:"Ghungroo - Arijit Singh,Shilpa Rao", filePath: "songs/4.mp3", coverPath: "covers/4.jfif"},
+    {songName:"Ghode Pe Sawar - Sireesha Bhagavatula", filePath: "songs/3.mp3", coverPath: "covers/3.jpg"},
+    {songName:"Ghungroo - Arijit Singh,Shilpa Rao", filePath: "songs/4.mp3", coverPath: "covers/4.jpg"},
     {songName:"Sham - Amit Trivedi|Nikhil D'Souza", filePath: "songs/5.mp3", coverPath: "covers/5.jpg"},
-    {songName:"Mann Meri Jaan - King", filePath: "songs/6.mp3", coverPath: "covers/6.jfif"},
-    {songName:"Old Song Mashup - Atif Aslam", filePath: "songs/7.mp3", coverPath: "covers/7.jfif"},
+    {songName:"Mann Meri Jaan - King", filePath: "songs/6.mp3", coverPath: "covers/6.jpg"},
+    {songName:"Old Song Mashup - Atif Aslam", filePath: "songs/7.mp3", coverPath: "covers/7.jpg"},
     {songName:"Bhula Dena - Salam-e-Ishq", filePath: "songs/8.mp3", coverPath: "covers/8.jpg"},
     {songName:"Firework - kety Perry", filePath: "songs/9.mp3", coverPath: "covers/9.jpg"},
-    {songName:"Who Says - Selena Gomez", filePath: "songs/10.mp3", coverPath: "covers/10.jfif"},
+    {songName:"Who Says - Selena Gomez", filePath: "songs/10.mp3", coverPath: "covers/10.jpg"},
 ]
 
 songItems.forEach((element, i)=>{ 
